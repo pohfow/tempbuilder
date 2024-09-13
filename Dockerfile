@@ -1,0 +1,1 @@
+FROM pekbee/wpwz:latest
